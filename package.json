@@ -1,0 +1,36 @@
+{
+  "name": "gulp-replace-each",
+  "version": "1.0.0",
+  "description": "A string replace plugin with array for gulp",
+  "homepage": "https://github.com/Mefistosss/gulp-replace-each",
+  "repository": "git@github.com:Mefistosss/gulp-replace-each.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "replace",
+    "array",
+    "regexp"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "author": {
+    "name": "Sergey Ponomarenko",
+    "email": "ponomarenkostheone@gmail.com",
+    "url": "https://github.com/Mefistosss"
+  },
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "vinyl": "^2.2.0"
+  }
+}
