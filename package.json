@@ -1,6 +1,6 @@
 {
   "name": "gulp-replace-each",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A string replace plugin with array for gulp",
   "homepage": "https://github.com/Mefistosss/gulp-replace-each",
   "repository": "git@github.com:Mefistosss/gulp-replace-each.git",
